@@ -13,7 +13,7 @@
 
 - 👯 I collaborate on [Master-Bot](https://github.com/galnir/Master-Bot)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Bacon-Fixation](https://github.com/Bacon-Fixation)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/Bacon-Fixation)
 
 - 📫 How to reach me **baconfixation@baconshelper.com**
 
