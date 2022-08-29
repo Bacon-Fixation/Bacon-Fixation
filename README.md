@@ -35,7 +35,6 @@
 
 Mostly custom one offs using MCU's (ESP8266, ESP32, RP2040, Atmega) and Raspberry Pi.
 
-![Arduino IDE](https://img.shields.io/badge/--00979D?logo=arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/--00599C?logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/--00599C?logo=c&logoColor=white)
 ![Node Red](https://img.shields.io/badge/--8F0000?logo=nodered&logoColor=white)
