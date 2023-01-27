@@ -7,7 +7,7 @@
 
 ### Bots!
 
-- [**Bacons_Helper**](https://baconshelper.com/): (work in progress in a closed beta)
+- [**Bacons_Helper**](https://baconshelper.com/): (work in progress - accepting invite requests)
   <br>
   A highly customizable Twitch Chat Bot with many features with to help with chat engagement and improve the stream experience with Auto Translations, Follow Bot Removal, Trebek Mini Game, Leaderboard, Dad Jokes, and many others!!!
   <br>
