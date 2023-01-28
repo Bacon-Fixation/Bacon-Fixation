@@ -1,17 +1,14 @@
-<h1 align="center">Bacon Fixation </h1>
+<h1 align="center">Bacon Fixation</h1>
 
-<h3 align="center">I just do this for fun</h3> 
+<h3 align="center">I just do this for fun</h3>
 <br>
-
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bacon-fixation&label=Profile%20views&color=0e75b6&style=plastic" alt="bacon-fixation" /> </p> -->
 
 ### Bots!
 
-- [**Bacons_Helper**](https://baconshelper.com/): (work in progress - accepting invite requests)
+- [**Bacons_Helper**](https://baconshelper.com/):
   <br>
-  A highly customizable Twitch Chat Bot with many features with to help with chat engagement and improve the stream experience with Auto Translations, Follow Bot Removal, Trebek Mini Game, Leaderboard, Dad Jokes, and many others!!!
-  <br>
-  Bot commands and responses can be set to check for inappropriate content to prevent bypassing Automod and chat filters.
+  A highly customizable Twitch Chat Bot with many features like an auto translator, follow Bot messsage removal, Trebek joke mini game with leaderboard, dad jokes, raid recommendations and so much more!!!
   <br>
   - Stack: ![NodeJS](https://img.shields.io/badge/--6DA55F?logo=node.js&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/--%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
